@@ -1,0 +1,5 @@
+Link to the the Fraunhofer Web Application Farm, which is Fraunhofer's own hosting platform with web applications like Streamlit and Dash.
+This simple app was created for the Torque 2024 conference using Streamlit.
+
+Click link below:
+https://websites.fraunhofer.de/viola-torque2024
